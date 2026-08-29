@@ -68,13 +68,4 @@ I care about clean architecture, enforced boundaries, and code that holds up in 
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pran-gc&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pran-gc&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
-</p>
-
----
-
 <p align="center"><i>Open to conversations about agentic AI, applied ML, and full-stack engineering.</i></p>
