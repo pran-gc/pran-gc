@@ -1,71 +1,60 @@
 <h1 align="center">Hi, I'm Pranav 👋</h1>
 
 <p align="center">
-  <b>Software Engineer</b> · Systems Architect · Agentic AI
+  <b>Software engineer building AI systems, full-stack products and mobile apps</b>
 </p>
 
 <p align="center">
-  <a href="https://pranavguptachummun.com"><img src="https://img.shields.io/badge/Portfolio-pranavguptachummun.com-0FA68C?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.pranavguptachummun.com"><img src="https://img.shields.io/badge/Portfolio-pranavguptachummun.com-0FA68C?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/pranavgc/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sirpgc@gmail.com"><img src="https://img.shields.io/badge/Email-sirpgc@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Mauritius%20(GMT+4)-6C5CE7?style=flat-square" alt="Location">
-</p>
+  <a href="mailto:sirpgc@gmail.com"><img src="https://img.shields.io/badge/Email-sirpgc@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a></p>
 
 ---
 
-I'm a software engineer and **systems architect** who's happiest solving hard problems — designing **agentic AI systems** and shipping **production software end to end**, from the data model and API boundaries through to the last mile of a mobile app.
+I design and build production AI systems and the products around them. I work across the whole stack, from data models, APIs and agent pipelines to web and mobile apps, and I've taken products from an empty repo to real users.
 
-I care about clean architecture, enforced boundaries, and code that holds up in the real world. I move comfortably across **AI/ML, backend, and full-stack + mobile**, picking the right tool for the problem rather than forcing the problem to fit the tool.
+### 💡 What I do
 
----
+- **Agentic AI and LLM systems.** Multi-agent pipelines, retrieval with pgvector, MCP servers and tool use, with evaluation and human review built in so the output can be trusted.
+- **Full-stack products.** TypeScript and Python backends on PostgreSQL, with clear API boundaries, transactional writes and data that stays consistent.
+- **Mobile apps.** Offline-first Flutter and React Native apps with on-device OCR and AI features, and apps published on Google Play.
+- **Computer vision and ML.** From research to a shipped app: food recognition and portion estimation from a single photo, published with Springer.
 
-### 🛠️ Tech I work with
-
-**AI / ML**
-<br>
-![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Platforms**
-<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Cloud & DevOps**
-<br>
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🚀 Featured projects
+### 🚀 What I'm building
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| **[NutriWorkoutExpert](https://github.com/pran-gc/NutriWorkoutExpert)** | Nutrition & workout tracker with a strictly-layered, type-safe full stack and a CI-enforced API boundary | Expo · React Native · Hono · Supabase · Postgres RLS |
-| **SnapLedger** | AI personal finance app — snap a receipt, get categorised transactions. Offline-first, in closed beta on Google Play | Flutter · Claude vision · Drift/SQLite · Firebase |
-| **Meals AI** | One-photo meal tracker with food recognition & portion estimation (~85%); basis for my Springer publication | Flutter · Python · TensorFlow |
+| **[Resume Studio](https://www.pranavguptachummun.com/work/resume-studio/)** | A structured resume editor where AI proposes changes and the user reviews them. Launching soon. | TypeScript, Next.js, PostgreSQL, MCP, Cloudflare |
+| **[SnapLedger](https://www.pranavguptachummun.com/work/snapledger/)** | A personal-finance app that scans receipts, imports statements, suggests budgets and answers questions about your money. In beta. | Flutter, Riverpod, Drift/SQLite, Firebase, ML Kit OCR, Gemini |
+| **[SpecForge](https://www.pranavguptachummun.com/work/specforge/)** | Ten agents that take a ticket all the way to a pull request, ready for your review. | Multi-agent systems, Agentic RAG, MCP, Evaluation |
+| **[Omupra](https://www.pranavguptachummun.com/work/omupra/)** | A shopping platform I founded and ran for local businesses, with 30 sellers and around 2,000 active users. The project that taught me the most. | Next.js, React Native, FastAPI, PostgreSQL, Elasticsearch |
+
+My products are private because I'm building them as businesses. Each link above goes to a demo of what I built, and I'm always happy to walk through the code in an interview.
+
+### 📱 Apps on Google Play
+
+- **[Meals AI](https://play.google.com/store/apps/details?id=com.pranavguptachummun.meals&hl=en)**: identifies food from a single photo and estimates the portion. My final-year project and the basis for my Springer paper.
+- **[Super Stompers](https://play.google.com/store/apps/details?id=com.pranavguptachummun.app&hl=en)**: a 2D platformer where you collect coins, chase high scores and compete with friends.
+- **[Trash Toss](https://play.google.com/store/apps/details?id=com.pranavguptachummun.trashtoss&hl=en)**: a physics puzzle where you sort recyclables into bins using creative tools.
+
+### ✨ A few things I'm proud of
+
+- BSc (Hons) Software Engineering, First Class with Distinction, ranked #1 at my university
+- Published with Springer: *Advancements in ML and Computer Vision Approaches for Food and Nutrient Recognition from Images* (LNNS vol. 833)
+- Selected by Google as the first-ever GDSC lead on my campus, where I founded the club and organised 15 talks
+- Talks at Google DevCon 2024 and Build with AI 2025, and I founded an AI upskilling programme for companies
+- 1st place, Huawei Seeds for the Future (Tech4Good) 2023
+
+### 🛠️ Tech I work with
+
+**Languages:** Python, TypeScript, Java, C#, Dart, SQL
+<br>
+**Frameworks:** Next.js, React, React Native, Flutter, FastAPI, .NET
+<br>
+**AI:** Gemini, Claude, MCP, TensorFlow, OpenCV
+<br>
+**Data & cloud:** PostgreSQL, Supabase, Firebase, Azure, Cloudflare
 
 ---
 
-<p align="center"><i>Open to conversations about agentic AI, applied ML, and full-stack engineering.</i></p>
+<p align="center"><i>If you're building something ambitious and need someone who will own it from the first idea to launch, I'd love to hear from you!</i></p>
